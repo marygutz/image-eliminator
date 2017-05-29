@@ -12,5 +12,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-Photos by moi ['http://marylicaninphotography.com'](moi)
+Photos by [Mary Ličanin]('http://marylicaninphotography.com')
 Special thanks to the city of Boston for the subject matter.
