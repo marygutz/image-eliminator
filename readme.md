@@ -1,6 +1,6 @@
 # Image Eliminator
 
-A simple way to present a gallery of images that allows users to elmininate all but one, leaving a the last and final winner.
+A simple way to present a gallery of images that allows users to elmininate all but one, leaving a last and final winner.
 
 ## Getting Started
 
