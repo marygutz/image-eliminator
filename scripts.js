@@ -10,20 +10,6 @@ document.getElementById('grid').addEventListener('click', function (e) {
       removeTarget.parentNode.removeChild(removeTarget)
       if (qty === 2) {
         var photoLi = this.querySelectorAll('#grid img')
-        var getUrl = window.location
-        var baseUrl = getUrl.protocol + '//' + getUrl.host + '/' + getUrl.pathname.split('/')[1]
-        var href = location.href
-        var newURL = window.location.protocol + '//' + window.location.host + '/' + window.location.pathname
-        var pathArray = window.location.pathname.split('/')
-        var newPathname = ''
-        for (i = 0; i < pathArray.length - 1; i++) {
-          newPathname += '/'
-          newPathname += pathArray[i]
-        }
-
-        // console.log(window.location.protocol + newPathname)
-        console.dir(photoLi[0].src)
-
         document.querySelector('#title').innerHTML = `<p>You selected:</p><h2>${photoLi[0].alt}</h2>`
 
         document.querySelector('#details').innerHTML = `<p>
