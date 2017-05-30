@@ -14,4 +14,5 @@ This project is licensed under the MIT License - see the [License.md](LICENSE.md
 
 Photos by [Mary Ličanin](http://marylicaninphotography.com)
 
-Special thanks to the city of Boston for the subject matter.
+Special thanks to the city of Boston for the subject matter,
+and to the hubs for patiently waiting for the potographer and carrying her photo gear.
