@@ -1,0 +1,54 @@
+    body {
+        background: #333;
+        color: #fff;
+    }
+    
+    #imageEliminator h1,
+    #imageEliminator h2,
+    #imageEliminator p {
+        font-family: 'Catamaran', sans-serif;
+        font-weight: 200;
+        line-height: 1.25;
+        margin: 1rem 0;
+        text-align: center;
+    }
+    #imageEliminator a {color: #fff;}
+    #imageEliminator h1 {
+        font-size: 4rem;
+    }
+    #imageEliminator h2 {
+        font-size: 2rem;
+    }
+    #imageEliminator p {
+        font-size: 1.25rem;
+    }
+    #imageEliminator ul {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0;
+    }
+    #imageEliminator ul#grid {
+        text-align: center;
+    }
+    #imageEliminator ul#grid li {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    #imageEliminator #grid img {
+        max-width: 200px;
+        max-height: 300px;
+    }
+    footer,
+    footer a {
+        font-family: 'Catamaran', sans-serif;
+        font-size: 0.8rem;
+        font-weight: 200;
+        line-height: 2;
+        margin: 1rem 0;
+        text-align: center;
+    }
+    footer,
+    footer a {
+        color: #efefef;
+    }
